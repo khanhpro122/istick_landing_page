@@ -1,0 +1,28 @@
+{
+  "header": {
+    "aboutUs": {
+      "title": "About us"
+    },
+    "signIn": {
+      "title": "Sign in"
+    },
+    "signUp": {
+      "title": "Sign up"
+    }
+  },
+  "banner": {
+    "title": {
+      "title": "Let ChatBot know your dream job.",
+      "description": "Enjoy new experiences, discover thousands of job opportunities, and get trusted support to reach your career goals. We are always here, ready to help you succeed."
+    },
+    "chatNow": {
+      "title": "Chat now"
+    },
+    "postAJob": {
+      "title": "Post a job"
+    },
+    "lookingInstead": {
+      "title": "Looking hire to instead?"
+    }
+  }
+}

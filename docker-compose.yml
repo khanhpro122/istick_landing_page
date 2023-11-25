@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  istick-landing-app:
+    image: landing-app:latest
+    command: node server.js
+    ports:
+      - '3000:3000'
+    environment:
+      NODE_ENV: production

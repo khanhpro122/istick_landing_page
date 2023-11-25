@@ -1,0 +1,28 @@
+{
+  "header": {
+    "aboutUs": {
+      "title": "Về Chúng tôi"
+    },
+    "signIn": {
+      "title": "Đăng nhập"
+    },
+    "signUp": {
+      "title": "Đăng ký"
+    }
+  },
+  "banner": {
+    "title": {
+      "title": "Hãy cho ChatBot biết công việc mơ ước của bạn.",
+      "description": "Tận hưởng trải nghiệm mới mẻ, khám phá hàng ngàn cơ hội việc làm và nhận được sự hỗ trợ đáng tin cậy để đặt đến mục tiêu sự nghiệp. Chúng tôi luôn ở đây, sẵn sàng giúp bạn thành công."
+    },
+    "chatNow": {
+      "title": "Trò chuyện ngay"
+    },
+    "postAJob": {
+      "title": "Ứng tuyển"
+    },
+    "lookingInstead": {
+      "title": "Looking hire to instead?"
+    }
+  }
+}
